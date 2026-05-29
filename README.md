@@ -31,19 +31,11 @@ Examples:
 - Vector Database
 - Graph Database
 - Event Queue / Message Broker
-- API Backend
 - Search Engine
 - Frontend Dashboard
 - Async Workers
 - LLM Layer
-- Telemetry Processing
-- Authentication System
-- Document Storage
-- CI/CD Integration
 - Caching Layer
-- Monitoring & Observability
-- Infrastructure Orchestration
-
 
 ---
 
